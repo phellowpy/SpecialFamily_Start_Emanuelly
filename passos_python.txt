@@ -1,0 +1,30 @@
+1) criar variaveis do sistema
+2) criar cadastro
+3) criar login
+4) sistema de contatar
+5) criar sistema de doaçao
+6) criar filtro da pagina eventos
+7) criar filtro da pagina de encontrar 
+8) sistema de filtrar na pagina de grupos
+9) sistema de filtrar na pagina da comunidade
+10) sistema de filtrar posts no compartilhar
+11) sistema de avaliaçao
+12) sistema de favoritar perfis de piscologo
+13) cadastrar no evento
+14) sistema da comunidade de entrar nela
+15) sistema de notificaçao
+16) sistema de reagir ao post do compartilhar
+17) sistema de reagir a post na comunidade
+18) sistema de mostrar comunidades que a pessoa participa no perfil
+19) sistema de criaçao de comunidades
+20) sistema da comunidade de postar coisas
+21) criar sistema de pagamento
+22) sistema de compartilhar post 
+23) sistema de foruns
+24) sistema de criar evento
+25) sistema de postagem de noticias
+26) sistema de post do perfil
+27) criar perfil
+28) editar perfil
+29) criar sistema de criptografia de itens importantes
+30) criar conexao entre front end e back end
